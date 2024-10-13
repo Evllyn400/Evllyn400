@@ -24,7 +24,7 @@
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Evllyn400}/count.svg" /></p> 
-   <img width="133" align="right" alt="Gi" src="https://cdn.discordapp.com/attachments/1144838610831540225/1164959065785507890/picasion.com_55501ff398d18bddc8ec9c96862ffbc0.gif?ex=65451bad&is=6532a6ad&hm=6f4578244e87e7eb10c6a348e46de80201a1f2bee7976acea66f47f598931097&">
+   <img width="133" align="right" alt="Gi" src="https://cdn.discordapp.com/attachments/1144838610831540225/1164959065785507890/picasion.com_55501ff398d18bddc8ec9c96862ffbc0.gif?ex=670c99ed&is=670b486d&hm=d70042348ef71c5157d11bffd226a1028ec5c4777febbb41fe2c5fcc48e1b53a&">
 <br>
    
 </div>
