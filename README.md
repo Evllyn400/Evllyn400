@@ -13,6 +13,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Evllyn400&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div style="display: inline_block"><br>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Evllyn400}/count.svg" /></p> 
+   <img width="133" align="right" alt="Gi" src="https://cdn.discordapp.com/attachments/1144838610831540225/1164959065785507890/picasion.com_55501ff398d18bddc8ec9c96862ffbc0.gif?ex=670c99ed&is=670b486d&hm=d70042348ef71c5157d11bffd226a1028ec5c4777febbb41fe2c5fcc48e1b53a&">
+<br> 
+</div>
+
 <div align="center"> 
 <a href="https://www.instagram.com/evllyn_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:gi.eve.78@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -20,13 +27,5 @@
  </div>
 
  ##
-
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Evllyn400}/count.svg" /></p> 
-   <img width="133" align="right" alt="Gi" src="https://cdn.discordapp.com/attachments/1144838610831540225/1164959065785507890/picasion.com_55501ff398d18bddc8ec9c96862ffbc0.gif?ex=670c99ed&is=670b486d&hm=d70042348ef71c5157d11bffd226a1028ec5c4777febbb41fe2c5fcc48e1b53a&">
-<br>
-   
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF99D0&height=120&section=footer"/>
